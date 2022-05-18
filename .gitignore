@@ -1,5 +1,4 @@
-venv/**
 /venv
-./mongo/settings.py
-/mongo/settings.py
-
+/mongo/settings.py/
+/env/
+/venv/
