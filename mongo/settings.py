@@ -85,7 +85,7 @@ DATABASES = {
         'ENGINE': 'djongo',
         'ENFORCE_SCHEMA': False,
         'CLIENT': {
-            "host": "mongodb+srv://@cluster0.e5n7l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+            "host": "mongodb+srv://souhil:souhil@cluster0.e5n7l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
             "name":"Ligue1API",
             "authMechanism":"SCRAM-SHA-1"
         }
