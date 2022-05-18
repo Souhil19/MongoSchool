@@ -1,2 +1,2 @@
-./venv
-./mongo/settings.py
+venv/
+mongo/settings.py
